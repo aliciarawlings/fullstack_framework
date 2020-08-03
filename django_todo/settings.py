@@ -26,7 +26,7 @@ SECRET_KEY = 'jt*wy3*r^m=us^2ewxce)ht)*t1adz0%i*27hv6y&g5r4*rct('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['fullstack-framework-app.herokuapp.com/']
+ALLOWED_HOSTS = ['fullstack-framework-app.herokuapp.com']
 
 
 # Application definition
